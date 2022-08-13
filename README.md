@@ -1,2 +1,2 @@
 # PatikaSQL
-https://github.com/zehracakir/SQLPatikaDevOdevler
+https://www.patika.dev/tr
