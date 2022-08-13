@@ -1,0 +1,18 @@
+1)select title, description from film;
+2)select * from film where length >60 AND length <75;
+3)select * from film where rental_rate=0.99 AND replacement_cost=12.99 OR replacement_cost=28.99 ;
+4)Smith
+5)
+247	"Downhill Enough"
+407	"Hawk Chill"
+430	"Hook Chariots"
+504	"Kwai Homeward"
+753	"Rush Goodfellas"
+524	"Lion Uncut"
+617	"Natural Stock"
+630	"Notting Speakeasy"
+634	"Odds Boogie"
+730	"Ridgemont Submarine"
+812	"Smoking Barbarella"
+866	"Sunset Racer"
+931	"Valentine Vanishing"
